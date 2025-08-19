@@ -1,5 +1,3 @@
-Claro, aqui está um modelo de arquivo README completo para o seu projeto, formatado em Markdown. Você pode copiar e colar este texto diretamente no seu repositório no GitHub.
-
 LiterAlura
 Descrição do Projeto
 LiterAlura é uma aplicação de console construída com Spring Boot para gerenciar uma biblioteca de livros. O projeto permite buscar livros de uma API externa, registrar no banco de dados, e listar os livros e autores salvos.
